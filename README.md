@@ -39,7 +39,8 @@
 </td>
 <br>
 
+#
 <div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=rsynthwave)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrostono)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrostono&show_icons=true&theme=rsynthwave)
 </div>
