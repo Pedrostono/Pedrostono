@@ -1,5 +1,5 @@
 ![Banner](assets/Sapo2.png)
-## 👋 Tudo bem? Sou o Pedro 👽
+<h1 align="center">👋 Tudo bem? Sou o Pedro 👽</h1>
 
 ### 💻 Estudante de programação e 🖼️ design
 
@@ -54,3 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 </table>
+
+###
+
+<img src="https://raw.githubusercontent.com/Pedrostono/Pedrostono/output/snake.svg" alt="Snake animation" />
+
+###
