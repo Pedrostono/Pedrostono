@@ -1,10 +1,26 @@
 ![Banner](assets/Sapo2.png)
+## 👋 Tudo bem? Sou o Pedro 👽
 
+### 💻 Estudante de programação e 🖼️ design
+
+---
+
+🧩 Estou cursando Desenvolvimento de Software Multiplataforma (4º semestre)  
+
+🌱 Tenho como objetivo registrar minha evolução na área de TI
 
 <div>
   <img align="center" style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=##FF00FF"  />
 </div>
 <br/>  
+
+<br/>  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Pedrostono&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrostono&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+#🤖 Minhas ferramentas e linguagens
 <table>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -38,8 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 </table>
-<br/>  
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedrostono&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrostono&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
