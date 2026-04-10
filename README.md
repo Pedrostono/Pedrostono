@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Banner](assets/sapo2.png)
+![Banner](assets/Sapo2.png)
 <!--
 **Pedrostono/Pedrostono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
