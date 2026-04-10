@@ -20,7 +20,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrostono&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-#🤖 Minhas ferramentas e linguagens
+# 🤖 Minhas ferramentas e linguagens
 <table>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
