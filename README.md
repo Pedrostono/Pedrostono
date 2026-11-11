@@ -3,9 +3,11 @@
 
 ### 💻 Estudante de programação e 🖼️ design
 
+### Atualmente, sou Analista de TI e Desenvolvimento Jr. I na Conecta Infra 
+
 ---
 
-🧩 Estou cursando Desenvolvimento de Software Multiplataforma (4º semestre)  
+🧩 Estou cursando Desenvolvimento de Software Multiplataforma (5º semestre)  
 
 🌱 Tenho como objetivo registrar minha evolução na área de TI
 
